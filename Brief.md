@@ -1,8 +1,8 @@
 # ELEE1119 Advance Computer Engineering Brief
 
-**Submission Date: 28th March 2023 @ 1800**
+**Submission Date: 27th March 2024 @ 1500**
 
-**Viva: 04th April 2023 @ 1530-1620**
+**Viva: 27th March 2024 @ 1530-1620**
 
 **Weighting: 60%**
 
@@ -66,7 +66,7 @@ Video must be uploaded to private channel YouTube and shared via link using the 
   
   - Individual (40%)
     - Consistent contribution to the project via Git, checked via the contribution log (40%) 
-    - Quality of the Documentation using industry conventions (40%) 6
+    - Quality of the Documentation using industry conventions (40%)
       - README.md (50%) 
       - Code Documentation (50%) 
     - Video Viva Q&A (20%) 
