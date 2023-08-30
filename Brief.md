@@ -17,9 +17,7 @@ You are required to conceive, design, implement and operate a project, as discus
 ## Hardware 
 
 - Single Board Computers 
-  - Raspberry Pis
-  - Jetson Nanos 
-  - Odriod
+  - Raspberry Pis/Jetson Nanos/Odriod/Rock/ASUS... 
 - Robotic Arms 
 - Robotic Vehicle  
 - Flick (e-field) 
@@ -29,7 +27,7 @@ You are required to conceive, design, implement and operate a project, as discus
 - Range of sensors and actuators  
 - And others (TB(D/C))
 
-## Sotware
+## Software
 
 - Languages 
   - Python 
@@ -51,7 +49,7 @@ All code and documentation must be added to the Github repository, and the Githu
 
 A video viva presentation must be delivered that includes; a suitable logo, development of the project and final working demonstration. The format of the video should follow the flow of an engineering report: introduction, problem analysis, problem solution, results, discussion and conclusion.  
 
-Video must be uploaded to private channel YouTube and shared via link using the **[Coursework Submission Document](https://moodlecurrent.gre.ac.uk/mod/resource/view.php?id=2159572)**
+Video must be uploaded to private channel YouTube and shared via link using the **[Coursework Submission Document](https://moodlecurrent.gre.ac.uk/mod/resource/view.php?id=2526729)**
 
 ## Assessment Pieces
 
@@ -62,7 +60,8 @@ Video must be uploaded to private channel YouTube and shared via link using the 
     - Technical content (25%) 
     - Depth of discussion (15%) 
     - Clarity of presentation (15%) 
-    - Working demonstration of project (25%) 
+    - Working demonstration of project (15%)
+    - GitHub fully setup (10%) 
   
   - Individual (40%)
     - Consistent contribution to the project via Git, checked via the contribution log (40%) 
