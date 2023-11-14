@@ -69,3 +69,37 @@ Video must be uploaded to private channel YouTube and shared via link using the 
       - README.md (50%) 
       - Code Documentation (50%) 
     - Video Viva Q&A (20%) 
+
+------------------------
+
+## Rubric in Full
+    
+<div align=center>
+
+ **Rubric for : Group Assessment (60%)**
+
+| Criteria                               | Weight | Marking Criteria                                                                                                 |
+|----------------------------------------|--------|------------------------------------------------------------------------------------------------------------------|
+| Clearly Defined Coursework Scope        | 10%    | - 0-3: Unclear project scope; objectives not well-defined. <br> - 4-6: Adequate project scope; some clarity in objectives. <br> - 7-10: Clear and concise project scope with well-defined objectives.|
+| Clear Breakdown of Workload             | 10%    | - 0-3: Lack of transparency in task distribution. <br> - 4-6: Some transparency in task distribution. <br> - 7-10: Transparent distribution of tasks with clear responsibilities for each team and member.|
+| Technical Content                       | 25%    | - 0-9: Limited understanding and use of provided hardware/software. <br> - 10-17: Adequate technical content; basic use of hardware/software. <br> - 18-25: High level of technical competence; sophisticated use of hardware/software.|
+| Depth of Discussion                     | 15%    | - 0-4: Shallow exploration of challenges and solutions. <br> - 5-9: Adequate exploration with some consideration of technical and conceptual aspects. <br> - 10-15: In-depth exploration with thoughtful consideration of technical and conceptual aspects.|
+| Clarity of Presentation                 | 15%    | - 0-4: Disorganized presentation; ideas poorly communicated. <br> - 5-9: Adequately organized presentation with some clarity. <br> - 10-15: Well-organized, logically structured presentation with clear communication and effective use of visuals.|
+| Working Demonstration of Project        | 15%    | - 0-4: Project demonstration unsuccessful. <br> - 5-9: Partially successful demonstration with some integration issues. <br> - 10-15: Successful demonstration; cohesive and operational end product.|
+| GitHub Fully Setup                      | 10%    | - 0-3: Incomplete GitHub setup; lack of branches. <br> - 4-6: Basic GitHub setup with some branches. <br> - 7-10: Comprehensive GitHub structure with appropriate use of branches and understanding of version control.|
+
+</div>
+
+--------------
+
+<div align=center>
+
+ **Rubric for : Individual Assessment (40%)**
+
+| Criteria                               | Weight | Marking Criteria                                                                                                 |
+|----------------------------------------|--------|------------------------------------------------------------------------------------------------------------------|
+| Consistent Contribution via Git         | 40%    | - 0-15: Limited or irregular contributions. <br> - 16-29: Regular but basic contributions. <br> - 30-40: Consistent, meaningful contributions, responsive to feedback.|
+| Quality of Documentation                | 40%    | **README.md (50%)**: <br> - 0-19: Incomplete or unclear documentation. <br> - 20-34: Adequate README with basic information. <br> - 35-50: Comprehensive README with clear project overview, installation instructions, and usage guidelines. <br> **Code Documentation (50%)**: <br> - 0-19: Lack of in-code comments and documentation. <br> - 20-34: Basic in-code comments; some documentation. <br> - 35-50: High-quality in-code comments and thorough documentation following industry standards.|
+| Video Viva Q&A                          | 20%    | - 0-9: Limited understanding of the project during Q&A. <br> - 10-15: Adequate understanding with some articulate responses. <br> - 16-20: Deep understanding, articulate responses, and ability to defend technical choices.|
+
+</div>
