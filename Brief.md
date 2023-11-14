@@ -78,16 +78,15 @@ Video must be uploaded to private channel YouTube and shared via link using the 
 
  **Rubric for : Group Assessment (60%)**
 
-| Criteria                               | Weight | Marking Criteria                                                                                                 |
-|----------------------------------------|--------|------------------------------------------------------------------------------------------------------------------|
-| Clearly Defined Coursework Scope        | 10%    | - 0-3: Unclear project scope; objectives not well-defined. <br> - 4-6: Adequate project scope; some clarity in objectives. <br> - 7-10: Clear and concise project scope with well-defined objectives.|
-| Clear Breakdown of Workload             | 10%    | - 0-3: Lack of transparency in task distribution. <br> - 4-6: Some transparency in task distribution. <br> - 7-10: Transparent distribution of tasks with clear responsibilities for each team and member.|
-| Technical Content                       | 25%    | - 0-9: Limited understanding and use of provided hardware/software. <br> - 10-17: Adequate technical content; basic use of hardware/software. <br> - 18-25: High level of technical competence; sophisticated use of hardware/software.|
-| Depth of Discussion                     | 15%    | - 0-4: Shallow exploration of challenges and solutions. <br> - 5-9: Adequate exploration with some consideration of technical and conceptual aspects. <br> - 10-15: In-depth exploration with thoughtful consideration of technical and conceptual aspects.|
-| Clarity of Presentation                 | 15%    | - 0-4: Disorganized presentation; ideas poorly communicated. <br> - 5-9: Adequately organized presentation with some clarity. <br> - 10-15: Well-organized, logically structured presentation with clear communication and effective use of visuals.|
-| Working Demonstration of Project        | 15%    | - 0-4: Project demonstration unsuccessful. <br> - 5-9: Partially successful demonstration with some integration issues. <br> - 10-15: Successful demonstration; cohesive and operational end product.|
-| GitHub Fully Setup                      | 10%    | - 0-3: Incomplete GitHub setup; lack of branches. <br> - 4-6: Basic GitHub setup with some branches. <br> - 7-10: Comprehensive GitHub structure with appropriate use of branches and understanding of version control.|
-
+| Criteria                                      | Excellent (9-10) | Proficient (6-8) | Basic (3-5) | Limited (0-2) |
+|----------------------------------------------|-------------------|------------------|-------------|--------------|
+| **Clearly Defined Coursework Scope**              | Clearly defines the coursework scope with precision and detail. | Defines the coursework scope effectively. | Defines the coursework scope with some gaps or ambiguity. | Fails to define the coursework scope adequately. |
+| **Clear Breakdown of Workload**                   | Provides a clear and well-structured breakdown of workload for each team/member. | Offers a clear breakdown of workload with acceptable structure. | Presents a breakdown of workload with some gaps or lack of clarity. | Fails to provide a clear breakdown of workload. |
+| **Technical Content**                             | Demonstrates a high level of technical content with depth and sophistication. | Presents technical content at a proficient level. | Provides technical content with some gaps or limited depth. | Technical content is insufficient or poorly presented. |
+| **Depth of Discussion**                           | Engages in a thorough and insightful discussion, demonstrating a deep understanding of the project. | Provides a good level of discussion with reasonable insights. | Offers a discussion with some gaps or lacks in-depth insights. | Discussion is minimal or lacks depth. |
+| **Clarity of Presentation**                     | Delivers a presentation with exceptional clarity, structure, and coherence. | Presents information with clear organization and coherence. | Presentation has some organizational issues or lacks clarity at times. | Presentation is disorganized and challenging to follow. |
+| **Working Demonstration of Project**              | Showcases a fully functional and well-demonstrated project with excellence. | Demonstrates a working project effectively. | Provides a working demonstration with some issues or limitations. | Fails to provide a satisfactory working demonstration. |
+| **GitHub Fully Setup**                            | Sets up GitHub repository fully, with branches and effective project management. | Sets up GitHub repository well, with acceptable project management. | Sets up GitHub with some issues or lacks effective project management. | GitHub setup is inadequate or poorly managed. |
 </div>
 
 --------------
@@ -95,11 +94,17 @@ Video must be uploaded to private channel YouTube and shared via link using the 
 <div align=center>
 
  **Rubric for : Individual Assessment (40%)**
-
-| Criteria                               | Weight | Marking Criteria                                                                                                 |
-|----------------------------------------|--------|------------------------------------------------------------------------------------------------------------------|
-| Consistent Contribution via Git         | 40%    | - 0-15: Limited or irregular contributions. <br> - 16-29: Regular but basic contributions. <br> - 30-40: Consistent, meaningful contributions, responsive to feedback.|
-| Quality of Documentation                | 40%    | **README.md (50%)**: <br> - 0-19: Incomplete or unclear documentation. <br> - 20-34: Adequate README with basic information. <br> - 35-50: Comprehensive README with clear project overview, installation instructions, and usage guidelines. <br> **Code Documentation (50%)**: <br> - 0-19: Lack of in-code comments and documentation. <br> - 20-34: Basic in-code comments; some documentation. <br> - 35-50: High-quality in-code comments and thorough documentation following industry standards.|
-| Video Viva Q&A                          | 20%    | - 0-9: Limited understanding of the project during Q&A. <br> - 10-15: Adequate understanding with some articulate responses. <br> - 16-20: Deep understanding, articulate responses, and ability to defend technical choices.|
+| Criteria                                      | Excellent (9-10) | Proficient (6-8) | Basic (3-5) | Limited (0-2) |
+|----------------------------------------------|-------------------|------------------|-------------|--------------|
+| **Consistent Contribution via Git**               | Consistently contributes to the project through Git with a high level of engagement. | Makes regular and effective contributions to the project via Git. | Contributes to the project via Git with some irregularities or inefficiencies. | Contribution to the project via Git is inconsistent or ineffective. |
+| **Quality of Documentation**                      | Provides documentation of exceptional quality, adhering to industry conventions. | Delivers documentation of good quality, following industry conventions. | Documentation has some issues or lacks completeness. | Documentation is of poor quality or incomplete. |
+| **- README.md (50%)**                            | The README is well-structured, comprehensive, and provides essential project information. | The README is adequately structured and contains most essential project information. | The README is somewhat disorganized or lacks some essential project information. | The README is disorganized or missing crucial project information. |
+| **- Code Documentation (50%)**                    | Code documentation is thorough, clear, and follows industry standards. | Code documentation is sufficient, clear, and follows industry standards. | Code documentation has some gaps or lacks clarity. | Code documentation is inadequate or unclear. |
+| **Video Viva Q&A**                              | Engages effectively in the video viva Q&A, providing insightful and articulate responses. | Participates well in the video viva Q&A with clear and thoughtful responses. | Responds to video viva Q&A with some gaps or lacks clarity. | Video viva Q&A responses are unclear or incomplete. |
 
 </div>
+
+
+
+| **Individual Assessment (40%)**              |                   |                  |             |              |
+
