@@ -94,17 +94,13 @@ Video must be uploaded to private channel YouTube and shared via link using the 
 <div align=center>
 
  **Rubric for : Individual Assessment (40%)**
-| Criteria                                      | Excellent (9-10) | Proficient (6-8) | Basic (3-5) | Limited (0-2) |
-|----------------------------------------------|-------------------|------------------|-------------|--------------|
-| **Consistent Contribution via Git**               | Consistently contributes to the project through Git with a high level of engagement. | Makes regular and effective contributions to the project via Git. | Contributes to the project via Git with some irregularities or inefficiencies. | Contribution to the project via Git is inconsistent or ineffective. |
-| **Quality of Documentation**                      | Provides documentation of exceptional quality, adhering to industry conventions. | Delivers documentation of good quality, following industry conventions. | Documentation has some issues or lacks completeness. | Documentation is of poor quality or incomplete. |
-| **- README.md (50%)**                            | The README is well-structured, comprehensive, and provides essential project information. | The README is adequately structured and contains most essential project information. | The README is somewhat disorganized or lacks some essential project information. | The README is disorganized or missing crucial project information. |
-| **- Code Documentation (50%)**                    | Code documentation is thorough, clear, and follows industry standards. | Code documentation is sufficient, clear, and follows industry standards. | Code documentation has some gaps or lacks clarity. | Code documentation is inadequate or unclear. |
-| **Video Viva Q&A**                              | Engages effectively in the video viva Q&A, providing insightful and articulate responses. | Participates well in the video viva Q&A with clear and thoughtful responses. | Responds to video viva Q&A with some gaps or lacks clarity. | Video viva Q&A responses are unclear or incomplete. |
+
+| Criteria| Excellent (9-10) | Proficient (6-8) | Basic (3-5) | Limited (0-2) |
+|---------|-------------------|------------------|-------------|--------------|
+| **Consistent Contribution via Git**| Consistently contributes to the project through Git with a high level of engagement. | Makes regular and effective contributions to the project via Git. | Contributes to the project via Git with some irregularities or inefficiencies. | Contribution to the project via Git is inconsistent or ineffective. |
+| **Quality of Documentation**| Provides documentation of exceptional quality, adhering to industry conventions. | Delivers documentation of good quality, following industry conventions. | Documentation has some issues or lacks completeness. | Documentation is of poor quality or incomplete. |
+| **- README.md (50%)**| The README is well-structured, comprehensive, and provides essential project information. | The README is adequately structured and contains most essential project information. | The README is somewhat disorganized or lacks some essential project information. | The README is disorganized or missing crucial project information. |
+| **- Code Documentation (50%)**| Code documentation is thorough, clear, and follows industry standards. | Code documentation is sufficient, clear, and follows industry standards. | Code documentation has some gaps or lacks clarity. | Code documentation is inadequate or unclear. |
+| **Video Viva Q&A**| Engages effectively in the video viva Q&A, providing insightful and articulate responses. | Participates well in the video viva Q&A with clear and thoughtful responses. | Responds to video viva Q&A with some gaps or lacks clarity. | Video viva Q&A responses are unclear or incomplete. |
 
 </div>
-
-
-
-| **Individual Assessment (40%)**              |                   |                  |             |              |
-
